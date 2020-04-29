@@ -200,7 +200,7 @@ class LoginState extends State<LoginWidget>{
                     ),
                   ),
                   Text(
-                    "Sign in to access your accont",
+                    "Login to access your accont",
                     style: TextStyle(
                       fontFamily: 'IndieFlower', 
                       color: Colors.white, 
